@@ -15,9 +15,9 @@
 🙌 **Connect with me:**
 **Connect with me:**
 - Portfolio: https://www.huyng.xyz
-- Linkedin: https://www.linkedin.com/in/huyngxyz/
-- Twitter X : 
-- Instagram: https://www.instagram.com/huyngxyz
+- Linkedin: https://www.linkedin.com/in/shaik-ayub001
+- Twitter X : https://twitter.com/A_Y_U_B_123
+- Instagram: https://www.instagram.com/explorewith__me_
 <!--
 **iAyubDev/iAyubDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
