@@ -14,7 +14,7 @@
 
 🙌 **Connect with me:**
 **Connect with me:**
-- Portfolio: https://www.huyng.xyz
+- Portfolio: https://iayub.netlify.app/
 - Linkedin: https://www.linkedin.com/in/shaik-ayub001
 - Twitter X : https://twitter.com/A_Y_U_B_123
 - Instagram: https://www.instagram.com/explorewith__me_
