@@ -3,7 +3,7 @@
 🧑‍🦲 I am a freelance frontend developer and web designer.
 
 🪛 **My go to tech-stack:**
-- Python | Java Developer
+- Python Full Stack | Testing
 - React | React Native
 - Framer motion
 - Contentful
